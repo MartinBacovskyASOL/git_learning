@@ -1,0 +1,1 @@
+Console.WriteLine("Ahoj, jak se vede?");
