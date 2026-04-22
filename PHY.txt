@@ -7,5 +7,3 @@ optava 2 v MAIN
 6
 89
 8
-45
-55
